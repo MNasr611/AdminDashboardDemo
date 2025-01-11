@@ -1,0 +1,3 @@
+BASE_URL: https://qa-staging-frontend-ce07bae316f3.herokuapp.com/
+ALL_EVENTS: https://qa-staging-frontend-ce07bae316f3.herokuapp.com/events/p/1
+ATTENDEES: /users/all/groups/p/1
