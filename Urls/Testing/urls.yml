@@ -1,0 +1,5 @@
+BASE_URL : https://qa-test-frontend-ce07bae316f3.herokuapp.com
+ALL_EVENTS: /events/p/1
+ATTENDEES: /users/all/groups/p/1
+
+

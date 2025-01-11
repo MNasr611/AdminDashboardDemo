@@ -1,0 +1,11 @@
+SeleniumSpeed: 0.1
+ImplicitWait: 0
+PageLoadTimeout: 240
+Remote_URL: ""
+isHeadless: false
+isIncognito: false
+Environment : Testing
+Language : AR
+PageLoadStrategy : eager
+TimeOut : 4
+MaxRetries : 3
