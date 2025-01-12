@@ -7,5 +7,5 @@ isIncognito: false
 Environment : Testing
 Language : AR
 PageLoadStrategy : eager
-TimeOut : 4
+TimeOut : 7
 MaxRetries : 3

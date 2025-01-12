@@ -13,4 +13,9 @@ Validate That Home Page Opened
 
 
 Click On First Event
+    Wait Until Keyword Succeeds     
+    ...    3x    
+    ...    200ms    
+    ...    Element Should Be Visible    
+    ...    ${firstEventRow}
     Click Element    ${firstEventRow}

@@ -1,6 +1,5 @@
 *** Settings ***
 Resource    ../../Resources/Commons/Commons.robot
-Resource    ../../Resources/Keywords/Home/Home.robot
 Suite Setup    Begin Suite
 Suite Teardown    End Suite
 
